@@ -203,13 +203,7 @@ done
 
 ---
 
-## 📸 Screenshots
 
-| Proxmox Dashboard | Wikipedia Mirror | Network Overview |
-|-------------------|------------------|------------------|
-| ![Proxmox](screenshots/proxmox-dashboard.png) | ![Wikipedia](screenshots/wikipedia-mirror.png) | ![Network](screenshots/network-diagram.png) |
-
----
 
 ## 🤝 Contributing
 
